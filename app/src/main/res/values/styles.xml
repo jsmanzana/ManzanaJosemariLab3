@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    
+    <style name="apptitle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">@string/app_title</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="appimage">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">361dp</item>
+    </style>
+    
+    <style name="apptext2">
+        <item name="android:layout_width">205dp</item>
+        <item name="android:layout_height">63dp</item>
+        <item name="android:text">Manila For A Day</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+
+    <style name="apptext3">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Intramuros Manila Gen. Luna Street, Manila, Luzon 1002 Philippines</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="apptext4">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">3.8 km from University of Santo Tomas</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="appbutton1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Back</item>
+    </style>
+
+    <style name="appbutton2">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:text">Next</item>
+    </style>
+
+</resources>
+
